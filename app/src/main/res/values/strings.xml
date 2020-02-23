@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prct009_RecuperacaoDeDadosSharedPreferences</string>
+    <string name="data_anos">A data do seu aniverário é:</string>
+    <string name="new_text">new text</string>
+    <string name="prox_data">O seu próximo aniverário será daqui a, </string>
+    <string name="new_text2"> new text </string>
+    <string name="dias">dias</string>
+    <string name="btn_text">Clique para salvar e exibir o resultado.</string>
+
+</resources>
